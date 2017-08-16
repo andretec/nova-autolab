@@ -1,0 +1,55 @@
+Novos BUGS.
+
+a) Falar para desligar o "measurement active" quando inicia o programa. (???)
+
+b) No andretec 5 só lê as entradas se eles estão lá enquanto abortado e colocar RUN de novo. (Corrigido)
+b.1) Gráfico corrigido, estava escondido!!!
+
+c) Seria importante escolher o XY de cada receita no começo no andretec 5. E remover a escolha de XY da aba seguinte.
+
+d) Mudar cor do texto "Wait..." do andretec4 de laranja para amarelo.(Corrigido)
+
+e) Tem um "Numeric" inutilizado na parte de baixo de andretec5. Apagar ele.(Corrigido)
+
+f) Adicionar um "(.nox)" na frente de "Load Procedure" (Corrigido)
+f.1) Add (*.nox) no fixeiro, abre somente essa extensão agora!!!
+
+g) O programa não limpa o gráfico (agora que usamos o gráfico que estava escondido).(Corrigido)
+
+On Jul 4, 2017 10:07, "Lorenzo Buscaglia" <lorenzo.buscaglia@gmail.com> wrote:
+
+Receitas de interesse:
+
+1) FRA impedance potentiostatic
+Gráficos:
+Freq (f) x Magnitude (|Z|)
+Freq (f) x Fase (theta)
+Imp. Real (Z') x Im. (Z")
+Current x Potential (acho q n precisa este)
+Colunas:
+f ; Z' ; Z" ; |Z| ; theta ; t
+
+2) Chrono amperometry delta t
+Gráfico:
+Time x Current
+
+3) Chrono coulometry delta t
+Gráfico:
+Charge x Time
+
+4) Chrono potentiometry
+Gráfico:
+Potential x Time
+
+5) Differential pulse voltametry
+Gráfico:
+Potential x Current
+
+6) Linear sweep voltammetry potentiostatic
+Gráfico:
+Potential x current
+
+7)Square wave voltametry
+Gráfico:
+Potential x current
+
