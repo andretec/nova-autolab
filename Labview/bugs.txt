@@ -3,16 +3,17 @@ Novos BUGS.
 a) Falar para desligar o "measurement active" quando inicia o programa. (???)
 
 b) No andretec 5 só lê as entradas se eles estão lá enquanto abortado e colocar RUN de novo. (Corrigido)
-b.1) Gráfico corrigido, estava escondido!!!
+---> b.1) Gráfico corrigido, estava escondido!!!
 
 c) Seria importante escolher o XY de cada receita no começo no andretec 5. E remover a escolha de XY da aba seguinte.
+---> c.1) Novo programa foi elaborado Andre-Tec-5-2
 
 d) Mudar cor do texto "Wait..." do andretec4 de laranja para amarelo.(Corrigido)
 
 e) Tem um "Numeric" inutilizado na parte de baixo de andretec5. Apagar ele.(Corrigido)
 
 f) Adicionar um "(.nox)" na frente de "Load Procedure" (Corrigido)
-f.1) Add (*.nox) no fixeiro, abre somente essa extensão agora!!!
+---> f.1) Add (*.nox) no fixeiro, abre somente essa extensão agora!!!
 
 g) O programa não limpa o gráfico (agora que usamos o gráfico que estava escondido).(Corrigido)
 

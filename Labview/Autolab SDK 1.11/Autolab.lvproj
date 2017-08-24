@@ -73,6 +73,7 @@
 			<Item Name="Measuring Complete - AndreTec-3.vi" Type="VI" URL="../Measuring Complete - AndreTec-3.vi"/>
 			<Item Name="Measuring Complete - AndreTec-4.vi" Type="VI" URL="../Measuring Complete - AndreTec-4.vi"/>
 			<Item Name="Measuring Complete - AndreTec-5.vi" Type="VI" URL="../Measuring Complete - AndreTec-5.vi"/>
+			<Item Name="Measuring Complete - AndreTec-5-2.vi" Type="VI" URL="../Measuring Complete - AndreTec-5-2.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -141,6 +142,7 @@
 			<Item Name="Serial - Settings.ctl" Type="VI" URL="/Program Files/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
 			<Item Name="EcoChemie.Autolab.Sdk.dll" Type="Document" URL="../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie.Autolab.Sdk.dll"/>
 			<Item Name="EcoChemie100.dll" Type="Document" URL="../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie100.dll"/>
+			<Item Name="EcoChemie100.dll" Type="Document" URL="../EcoChemie100.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="AutoLabNSensors" Type="EXE">

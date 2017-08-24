@@ -4,3 +4,6 @@ Measuring Complete - AndreTec-4.vi
 (Programa com Várias Receitas para Vários Sensores)
 Measuring Complete - AndreTec-5.vi
 
+(Programa com Várias Receitas para Vários Sensores e Tipos diferentes de Grafico para cada Receita)
+Measuring Complete - AndreTec-5-2.vi
+
