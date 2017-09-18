@@ -75,7 +75,6 @@
 			<Item Name="Measuring Complete - AndreTec-5.vi" Type="VI" URL="../Measuring Complete - AndreTec-5.vi"/>
 			<Item Name="Measuring Complete - AndreTec-5-2.vi" Type="VI" URL="../Measuring Complete - AndreTec-5-2.vi"/>
 		</Item>
-		<Item Name="Untitled 1.vi" Type="VI" URL="../../../../../../Users/Gustavos/Desktop/Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
