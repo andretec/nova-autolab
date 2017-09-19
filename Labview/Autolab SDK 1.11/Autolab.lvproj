@@ -74,6 +74,7 @@
 			<Item Name="Measuring Complete - AndreTec-4.vi" Type="VI" URL="../Measuring Complete - AndreTec-4.vi"/>
 			<Item Name="Measuring Complete - AndreTec-5.vi" Type="VI" URL="../Measuring Complete - AndreTec-5.vi"/>
 			<Item Name="Measuring Complete - AndreTec-5-2.vi" Type="VI" URL="../Measuring Complete - AndreTec-5-2.vi"/>
+			<Item Name="FRA example-AndreTec.vi" Type="VI" URL="../FRA example-AndreTec.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
