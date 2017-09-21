@@ -65,6 +65,7 @@
 			<Item Name="Autolab Complete Example (B).vi" Type="VI" URL="../Autolab Complete Example (B).vi"/>
 		</Item>
 		<Item Name="AndreTec" Type="Folder">
+			<Item Name="FRA-GRAPHs.vi" Type="VI" URL="../FRA-GRAPHs.vi"/>
 			<Item Name="auto_detect_arduino.vi" Type="VI" URL="../auto_detect_arduino.vi"/>
 			<Item Name="createTitles.vi" Type="VI" URL="../createTitles.vi"/>
 			<Item Name="isPathExist.vi" Type="VI" URL="../isPathExist.vi"/>
@@ -140,10 +141,10 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="EcoChemie.Autolab.Sdk.dll" Type="Document" URL="../EcoChemie.Autolab.Sdk.dll"/>
-			<Item Name="Serial - Settings.ctl" Type="VI" URL="/Program Files/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
-			<Item Name="EcoChemie.Autolab.Sdk.dll" Type="Document" URL="../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie.Autolab.Sdk.dll"/>
-			<Item Name="EcoChemie100.dll" Type="Document" URL="../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie100.dll"/>
 			<Item Name="EcoChemie100.dll" Type="Document" URL="../EcoChemie100.dll"/>
+			<Item Name="EcoChemie.Autolab.Sdk.dll" Type="Document" URL="../../../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie.Autolab.Sdk.dll"/>
+			<Item Name="EcoChemie100.dll" Type="Document" URL="../../../../../../../../Program Files/Metrohm Autolab/Autolab SDK 1.10/EcoChemie100.dll"/>
+			<Item Name="Serial - Settings.ctl" Type="VI" URL="../../../../../../../Program Files/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="AutoLabNSensors" Type="EXE">
