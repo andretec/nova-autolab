@@ -29,7 +29,7 @@ Receitas de interesse:
 1) FRA impedance potentiostatic
 Para cada sensor são 5 colunas
 1) Frequencia
-2) Magnetude Z
+2) Magnitude Z
 3) Phase
 4) Z'
 5) Z''
