@@ -21,6 +21,7 @@ h) Zerar colunas do tempo nas tabelas (andretec-4 e 5-2)
 
 i) Aparecer LABEL eixo X e Y no Gráfico NOVO (andretec-4 5-2) tirar (little arrow, tranformar em indicador)
 
+j) 10/11/2017 - Erro Gráficos FRA e Ao salvar arquivo, repete a medida anterior (Corrigido)
 
 On Jul 4, 2017 10:07, "Lorenzo Buscaglia" <lorenzo.buscaglia@gmail.com> wrote:
 
